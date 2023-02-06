@@ -1,2 +1,2 @@
-# PINNs
-Will look into various Heat Transfer problem through Physics-Informed Neural Networks approach.
+# PINNs 
+implementation of PINNs in various Heat Transfer problem .
